@@ -1,4 +1,4 @@
-![Webserver UI](assets/README-new-preview.gif)
+![Webserver UI](assets/screenshot1.png)
 
 
 # TradingVue.js ![npm](https://img.shields.io/npm/v/trading-vue-js.svg?color=brightgreen&label=version) ![license](https://img.shields.io/badge/license-MIT-blue.svg) ![build](https://img.shields.io/badge/build-passing-brightgreen.svg) ![size](https://img.shields.io/github/size/tvjsx/trading-vue-js/dist/trading-vue.min.js.svg) [![Gitter](https://badges.gitter.im/Trading-Vue-js/community.svg)](https://gitter.im/Trading-Vue-js/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![DONATE](https://img.shields.io/badge/฿-Donate-f7921b.svg)](https://github.com/tvjsx/trading-vue-js/blob/master/DONATION.md)
